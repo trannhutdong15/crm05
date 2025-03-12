@@ -16,5 +16,6 @@ public class StringUtils {
     public static void main(String[] args) {
         System.out.println("Is 'madam' a palindrome? " + isPalindrome("madam"));
         System.out.println("Reversed 'hello': " + reverse("hello"));
+        System.out.println("Do you love me");
     }
 }
